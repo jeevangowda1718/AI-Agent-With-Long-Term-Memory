@@ -81,7 +81,7 @@ AI-Agent-With-Long-Term-Memory/
 🤝 Contributing
 
 Contributions, ideas, and issues are welcome! Feel free to open a pull request or issue.
-📜 License
+
 
 
     Built with 💡 by Jeevan Gowda
